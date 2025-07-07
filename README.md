@@ -12,7 +12,6 @@ Analyze MavenFlix’s subscription data to uncover:
 
 The insights help MavenFlix make data-driven decisions to increase customer loyalty, reduce churn, and strengthen subscription growth.
 
----
 
 ## 🔍 Data Cleaning
 
@@ -20,7 +19,7 @@ Before analysis, the dataset was checked and cleaned:
 - Assessed and handled **null values** in key fields (`canceled_date`, `subscription_cost`, `subscription_interval`, `was_subscription_paid`).
 - Created a **subscription_status** column to classify active vs. canceled subscriptions.
 
----
+
 
 ## 📈 Key Findings
 
@@ -29,7 +28,6 @@ Before analysis, the dataset was checked and cleaned:
 - **Retention:** Pinpointed the best and worst months for keeping subscribers.
 - **Loyalty:** Found the percentage of customers staying 5+ months.
 
----
 
 ## ✅ Recommendations
 
@@ -38,7 +36,6 @@ Before analysis, the dataset was checked and cleaned:
 - Launch targeted campaigns to improve retention.
 - Monitor KPIs regularly to inform marketing and content strategies.
 
----
 
 ## 🛠️ Tools Used
 
@@ -46,14 +43,14 @@ Before analysis, the dataset was checked and cleaned:
 - **Language:** SQL  
 - **Presentation:** PowerPoint
 
----
+
 
 ## 📂 Files
 
 - `Video Streaming Analysis report.pptx` – Final presentation slides.
 - `video stream analysis.sql` – SQL queries used for cleaning and analysis.
 
----
+
 
 ## 🚀 How to Run
 
@@ -61,13 +58,13 @@ Before analysis, the dataset was checked and cleaned:
 2. Run the provided SQL scripts to clean data and generate insights.
 3. Use the presentation slides to communicate findings.
 
----
+
 
 ## 👤 Author
 
 **Edward Opare-Yeboah**  
 Data Analyst | [LinkedIn](https://www.linkedin.com/in/edward-opare-yeboah/)
 
----
+
 
 Feel free to reach out for collaboration or feedback!
