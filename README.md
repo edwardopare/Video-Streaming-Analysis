@@ -1,8 +1,8 @@
-# 📊 MavenFlix Video Streaming Subscription Analysis
+#  MavenFlix Video Streaming Subscription Analysis
 
 This repository contains my SQL-based analysis of MavenFlix’s subscription data, covering subscription trends, customer loyalty, and retention performance.
 
-## 📌 Project Overview
+##  Project Overview
 
 **Objective:**  
 Analyze MavenFlix’s subscription data to uncover:
@@ -13,7 +13,7 @@ Analyze MavenFlix’s subscription data to uncover:
 The insights help MavenFlix make data-driven decisions to increase customer loyalty, reduce churn, and strengthen subscription growth.
 
 
-## 🔍 Data Cleaning
+##  Data Cleaning
 
 Before analysis, the dataset was checked and cleaned:
 - Assessed and handled **null values** in key fields (`canceled_date`, `subscription_cost`, `subscription_interval`, `was_subscription_paid`).
@@ -21,7 +21,7 @@ Before analysis, the dataset was checked and cleaned:
 
 
 
-## 📈 Key Findings
+## Key Findings
 
 - **New subscriptions:** Identified trends in monthly new sign-ups.
 - **Cancellations:** Highlighted periods with high cancellations.
@@ -29,7 +29,7 @@ Before analysis, the dataset was checked and cleaned:
 - **Loyalty:** Found the percentage of customers staying 5+ months.
 
 
-## ✅ Recommendations
+##  Recommendations
 
 - Implement loyalty rewards for long-term subscribers.
 - Investigate causes of churn during low-retention months.
@@ -37,26 +37,11 @@ Before analysis, the dataset was checked and cleaned:
 - Monitor KPIs regularly to inform marketing and content strategies.
 
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Database:** MySQL  
 - **Language:** SQL  
 - **Presentation:** PowerPoint
-
-
-
-## 📂 Files
-
-- `Video Streaming Analysis report.pptx` – Final presentation slides.
-- `video stream analysis.sql` – SQL queries used for cleaning and analysis.
-
-
-
-## 🚀 How to Run
-
-1. Load the dataset into a MySQL database.
-2. Run the provided SQL scripts to clean data and generate insights.
-3. Use the presentation slides to communicate findings.
 
 
 
